@@ -1,3 +1,6 @@
 *.bin
 *.npy
 *.pt
+*.bin
+*.npy
+*.pt
